@@ -1,1 +1,1 @@
-# e-commerce-system
+# Backend web project (microservice)

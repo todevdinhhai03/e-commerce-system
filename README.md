@@ -1,4 +1,4 @@
-# Fullstack web project (Microservices)
+# Fullstack web application (Microservices)
 This project builds an e-commerce web application. It is created using Java and Angular.
 
 ## Services Overview

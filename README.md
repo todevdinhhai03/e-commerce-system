@@ -53,7 +53,7 @@ mvn spring-boot:build-image
 
 The above command will build and package the services into a docker container.
 
-## How to run the backend services
+## How to run backend services that support application managements
 
 Make sure you have the following installed on your machine:
 
